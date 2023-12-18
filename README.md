@@ -11,7 +11,7 @@
 Вы можете загрузить файлы nyc_yellow_tiny.csv и nyc_yellow_big.csv или использовать свои аналогичные тестовые данные. Поместите файлы в ту же директорию, что и ваши скрипты Python.
 Ссылки на скачивание:   
 
--nyc_yellow_tiny.csv - https://drive.google.com/file/d/1XWCk4XmgdNUZ8E42ktjGpeeKZeTO9YnJ/view?usp=drive_link
+-nyc_yellow_tiny.csv - https://drive.google.com/file/d/1XWCk4XmgdNUZ8E42ktjGpeeKZeTO9YnJ/view?usp=drive_link      
 -nyc_yellow_big.csv - https://drive.google.com/file/d/1BlGqraARshWU1FRSZtjTcISfRP3e8Usx/view?usp=drive_link
 
 ## Запуск
@@ -23,4 +23,5 @@
 -"sqlite" - запускает бенчмарк для SQLite  
 -"pandas" - запускает бенчмарк для Pandas  
 -"duckdb" - запускает бенчмарк для DuckDB  
-3. Запустите main.py, который выполнит указанную вами в config.py команду.
+
+2. Запустите main.py, который выполнит указанную вами в config.py команду.
